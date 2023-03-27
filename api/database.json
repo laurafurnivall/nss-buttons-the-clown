@@ -1,0 +1,33 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [],
+  "reservations": [
+    {
+      "parentName": "Laura",
+      "childName": "Faith",
+      "attendance": "10",
+      "address": "600 Link Street",
+      "dateReserved": "2023-03-31",
+      "partyLength": "2",
+      "id": 2
+    },
+    {
+      "parentName": "Bob Marley",
+      "childName": "Bobby",
+      "attendance": "30",
+      "address": "20 Sycamore Street",
+      "dateReserved": "2023-04-14",
+      "partyLength": "3",
+      "id": 3
+    }
+  ]
+}
